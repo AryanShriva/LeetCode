@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
