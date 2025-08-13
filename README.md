@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
