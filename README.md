@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
