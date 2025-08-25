@@ -11,6 +11,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
