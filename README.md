@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanShriva/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
