@@ -12,6 +12,7 @@
 | [0011-container-with-most-water](https://github.com/AryanShriva/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/AryanShriva/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AryanShriva/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AryanShriva/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Memoization
 |  |
