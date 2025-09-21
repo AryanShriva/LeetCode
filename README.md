@@ -24,6 +24,7 @@
 | [0198-house-robber](https://github.com/AryanShriva/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanShriva/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@
 | [0027-remove-element](https://github.com/AryanShriva/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
