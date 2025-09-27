@@ -32,6 +32,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanShriva/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -100,10 +101,12 @@
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
