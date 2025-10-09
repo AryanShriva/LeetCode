@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AryanShriva/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanShriva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AryanShriva/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
@@ -145,5 +146,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AryanShriva/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
