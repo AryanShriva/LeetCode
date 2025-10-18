@@ -8,6 +8,7 @@
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/AryanShriva/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
