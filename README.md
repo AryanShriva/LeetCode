@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
