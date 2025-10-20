@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AryanShriva/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanShriva/LeetCode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -152,6 +154,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
 |  |
