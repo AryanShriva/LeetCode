@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanShriva/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AryanShriva/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
