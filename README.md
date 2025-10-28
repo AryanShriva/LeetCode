@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanShriva/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -163,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AryanShriva/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
