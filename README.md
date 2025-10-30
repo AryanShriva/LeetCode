@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AryanShriva/LeetCode/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -105,6 +106,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanShriva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AryanShriva/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -144,6 +146,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
