@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanShriva/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AryanShriva/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AryanShriva/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/AryanShriva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
