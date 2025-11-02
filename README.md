@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -131,6 +132,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
@@ -167,6 +169,7 @@
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AryanShriva/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AryanShriva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AryanShriva/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
