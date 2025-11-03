@@ -43,6 +43,7 @@
 | [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AryanShriva/LeetCode/tree/master/0792-binary-search) |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanShriva/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -82,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AryanShriva/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -206,4 +209,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AryanShriva/LeetCode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
+## Union Find
+|  |
+| ------- |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
+## Graph
+|  |
+| ------- |
+| [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 <!---LeetCode Topics End-->
