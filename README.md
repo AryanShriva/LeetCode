@@ -86,6 +86,7 @@
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanShriva/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Design
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanShriva/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanShriva/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
