@@ -50,6 +50,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/AryanShriva/LeetCode/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Divide and Conquer
 |  |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,4 +230,5 @@
 |  |
 | ------- |
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 <!---LeetCode Topics End-->
