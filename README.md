@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/AryanShriva/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/AryanShriva/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AryanShriva/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -119,6 +120,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanShriva/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AryanShriva/LeetCode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/AryanShriva/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanShriva/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanShriva/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0233-number-of-digit-one](https://github.com/AryanShriva/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Bitmask
 |  |
 | ------- |
