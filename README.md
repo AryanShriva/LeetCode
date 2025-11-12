@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/AryanShriva/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/AryanShriva/LeetCode/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AryanShriva/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -211,6 +212,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AryanShriva/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanShriva/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0233-number-of-digit-one](https://github.com/AryanShriva/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/AryanShriva/LeetCode/tree/master/0326-power-of-three) |
 ## Bitmask
 |  |
 | ------- |
