@@ -52,6 +52,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/AryanShriva/LeetCode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/AryanShriva/LeetCode/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Divide and Conquer
@@ -126,6 +127,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AryanShriva/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/AryanShriva/LeetCode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/AryanShriva/LeetCode/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@
 | [0136-single-number](https://github.com/AryanShriva/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/AryanShriva/LeetCode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/AryanShriva/LeetCode/tree/master/3575-find-the-maximum-sequence-value-of-array) |
 ## Linked List
 |  |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AryanShriva/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/AryanShriva/LeetCode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Stack
 |  |
 | ------- |
