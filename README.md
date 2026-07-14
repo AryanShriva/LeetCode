@@ -38,6 +38,7 @@
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AryanShriva/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanShriva/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanShriva/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanShriva/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
@@ -156,6 +158,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AryanShriva/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanShriva/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanShriva/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AryanShriva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AryanShriva/LeetCode/tree/master/0792-binary-search) |
@@ -242,4 +245,8 @@
 | ------- |
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanShriva/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
