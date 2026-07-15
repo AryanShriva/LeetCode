@@ -145,6 +145,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanShriva/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanShriva/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/AryanShriva/LeetCode/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -194,6 +195,7 @@
 | [0125-valid-palindrome](https://github.com/AryanShriva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/AryanShriva/LeetCode/tree/master/0344-reverse-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanShriva/LeetCode/tree/master/2032-largest-odd-number-in-string) |
