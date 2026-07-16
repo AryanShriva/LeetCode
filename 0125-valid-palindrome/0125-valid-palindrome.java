@@ -1,18 +1,30 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s == null) return false;
-        
-        // Convert to lowercase and remove non-alphanumeric characters
-        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
-        
-        int left = 0, right = s.length() - 1;
+        int left = 0;
+        int right = s.length() - 1;
+
         while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
+
+            // Skip non-alphanumeric characters from the left
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            }
+
+            // Skip non-alphanumeric characters from the right
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            // Compare characters ignoring case
+            if (Character.toLowerCase(s.charAt(left)) != 
+                Character.toLowerCase(s.charAt(right))) {
                 return false;
             }
+
             left++;
             right--;
         }
+
         return true;
     }
 }
