@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AryanShriva/LeetCode/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanShriva/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AryanShriva/LeetCode/tree/master/0792-binary-search) |
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
@@ -70,6 +71,7 @@
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -92,6 +94,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AryanShriva/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
