@@ -26,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanShriva/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanShriva/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/AryanShriva/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AryanShriva/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/AryanShriva/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AryanShriva/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/AryanShriva/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -90,6 +92,7 @@
 | [0001-two-sum](https://github.com/AryanShriva/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AryanShriva/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AryanShriva/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanShriva/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -198,6 +201,7 @@
 | [0012-integer-to-roman](https://github.com/AryanShriva/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanShriva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AryanShriva/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/AryanShriva/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AryanShriva/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AryanShriva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
