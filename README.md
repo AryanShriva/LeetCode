@@ -56,6 +56,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanShriva/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AryanShriva/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanShriva/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/AryanShriva/LeetCode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AryanShriva/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3575-find-the-maximum-sequence-value-of-array](https://github.com/AryanShriva/LeetCode/tree/master/3575-find-the-maximum-sequence-value-of-array) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanShriva/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AryanShriva/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanShriva/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanShriva/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Design
 |  |
