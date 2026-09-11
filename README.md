@@ -75,6 +75,7 @@
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AryanShriva/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AryanShriva/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -101,6 +102,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AryanShriva/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/AryanShriva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AryanShriva/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0960-minimize-malware-spread](https://github.com/AryanShriva/LeetCode/tree/master/0960-minimize-malware-spread) |
@@ -212,6 +214,7 @@
 | [0125-valid-palindrome](https://github.com/AryanShriva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanShriva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AryanShriva/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AryanShriva/LeetCode/tree/master/0344-reverse-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AryanShriva/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/AryanShriva/LeetCode/tree/master/1078-remove-outermost-parentheses) |
