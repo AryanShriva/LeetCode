@@ -42,6 +42,7 @@
 | [0198-house-robber](https://github.com/AryanShriva/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanShriva/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AryanShriva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanShriva/LeetCode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@
 | [0075-sort-colors](https://github.com/AryanShriva/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AryanShriva/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AryanShriva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AryanShriva/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -97,6 +99,7 @@
 | [0049-group-anagrams](https://github.com/AryanShriva/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AryanShriva/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanShriva/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/AryanShriva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanShriva/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanShriva/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanShriva/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
