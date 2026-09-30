@@ -1,22 +1,36 @@
+import java.util.*;
+
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-
-        Map<String, List<String>> map = new HashMap<>();
-
-        for (String str : strs) {
-
+        if (strs == null || strs.length == 0) {
+            return new ArrayList<>();
+        }
+        
+        Map<String, List<String>> anagramMap = new HashMap<>();
+        
+        for (String s : strs) {
             int[] count = new int[26];
-
-            for (char c : str.toCharArray()) {
+            
+            // Count frequencies of each character
+            for (char c : s.toCharArray()) {
                 count[c - 'a']++;
             }
-
-            String key = Arrays.toString(count);
-
-            map.computeIfAbsent(key, k -> new ArrayList<>())
-               .add(str);
+            
+            // Build a unique string signature from the frequency array
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < 26; i++) {
+                sb.append('#');
+                sb.append(count[i]);
+            }
+            String key = sb.toString();
+            
+            // Group the strings using the signature
+            if (!anagramMap.containsKey(key)) {
+                anagramMap.put(key, new ArrayList<>());
+            }
+            anagramMap.get(key).add(s);
         }
-
-        return new ArrayList<>(map.values());
+        
+        return new ArrayList<>(anagramMap.values());
     }
 }
